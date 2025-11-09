@@ -47,3 +47,12 @@ The shell is built using:
 ```bash
 git clone https://github.com/<your-username>/LinusOS-Custom-Shell.git
 cd LinusOS-Custom-Shell
+
+2️⃣ Compile the shell
+g++ main.cpp -o linus_shell
+
+2️⃣ Compile the shell
+g++ main.cpp -o linus_shell
+
+4️⃣ Exit the shell
+exit
