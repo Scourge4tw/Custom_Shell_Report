@@ -51,8 +51,8 @@ cd LinusOS-Custom-Shell
 2️⃣ Compile the shell
 g++ main.cpp -o linus_shell
 
-2️⃣ Compile the shell
-g++ main.cpp -o linus_shell
+3️⃣ Run the shell
+./linus_shell
 
 4️⃣ Exit the shell
 exit
